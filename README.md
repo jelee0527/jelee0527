@@ -1,56 +1,22 @@
-<h1 align="center"> Hi there 👋 </h1>
-<h3 align="center">
-Frontend Engineer · AI System Builder  
-</h3>
+<h1 align="center">Hi There 👋</h1>
 
 <p align="center">
-🎓 PhD Student<br/>
-Hanyang University Graduate School
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Engineer+💻;AI+Driven+Product+Builder+🤖;Financial+Service+Architect+🏦;PhD+Student+|+Hanyang+University" />
 </p>
-
----
-
-## 🧠 About Me
-
-I design stable and scalable frontend architectures  
-for financial services and AI-driven systems.
-
-- 💻 React · Next.js · TypeScript
-- 🏗 WebView-based Financial Service Architecture
-- 🤖 AI UI Engineering (OCR · LLM · Time-Series Forecasting)
-- 📊 Real-time Data Visualization
-- 🔬 AST-based Code Optimization Research
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,aws,python" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,aws,python" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jelee0527&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelee0527&layout=compact" height="160"/>
-</p>
-
----
-
-## 🔎 Research & Focus
-
-- AI + Frontend Integration
-- Performance Optimization
-- Architecture-level Problem Solving
-- Financial Service Stability Engineering
-
----
-
-<p align="center">
-Building systems that balance stability and intelligence.
+  <img src="https://github-readme-stats.vercel.app/api?username=jelee0527&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelee0527&layout=compact&theme=radical" height="160"/>
 </p>
