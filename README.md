@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">I'm JiEun Lee </h1>
+<h1 align="center"> Hi there 👋 </h1>
 <h3 align="center">
 Frontend Engineer · AI System Builder  
 </h3>
